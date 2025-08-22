@@ -11,7 +11,7 @@ body {
 }
 
 .main {
-  background-image: url(assets/images/safety_bg.jpg);
+  background-image: url(../assets/images/safety_bg.jpg);
   background-position: center top;
   background-size:cover;
   background-repeat: no-repeat;
