@@ -1,6 +1,6 @@
 import React from "react";
 import logo from "./assets/images/logo_ns.svg";
-import './Safety.css';
+import './styles/Safety.css';
 
 function Safety() {
   function toggleDropdown() {
